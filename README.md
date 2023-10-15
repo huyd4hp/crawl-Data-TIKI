@@ -1,6 +1,6 @@
 ### crawlEcommerce
 - #### Create virtual environment 
-    * ``` python venv -m venv ```
+    * ``` python -m venv venv ```
 - #### Install package in requirement.txt
     * ``` source venv/Scripts/activate ```
     * ``` pip install -r requirement.txt ```
